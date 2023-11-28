@@ -1,4 +1,4 @@
-![image](https://github.com/Ngaix/query-data-using-python/assets/106523633/29d5d143-7375-471d-bfd8-53a3a9cba25b)# query-data-using-python
+# query-data-using-python
 
 This assignment involves 3 datasets for the city of Chicago
 
